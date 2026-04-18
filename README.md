@@ -44,7 +44,7 @@ Messages are transmitted wirelessly via nRF24L01 and displayed on the LCD of the
 ## Code
 > Full code and explanation available in the project files / report.
 
-## 🎯 Applications
+## Applications
 - Emergency communication  
 - Assistive communication devices  
 - Morse code learning tool  
